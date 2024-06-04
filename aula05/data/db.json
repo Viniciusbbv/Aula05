@@ -1,0 +1,16 @@
+{
+    "alunos":[
+        {
+            "id": 1,
+            "nome": "Vinicius",
+            "email":"Vinicius13bastos@gmail.com",
+            "curso":"Sistema para Internet"
+              },
+              {
+                "id": 2,
+                "nome":"Isa",
+                "email":"Isaraujov@gmail.com",
+                "curso":"Medicina"
+              }
+    ]
+}
